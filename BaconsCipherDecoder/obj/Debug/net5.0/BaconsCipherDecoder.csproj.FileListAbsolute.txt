@@ -1,0 +1,16 @@
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\bin\Debug\net5.0\BaconsCipherDecoder.exe
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\bin\Debug\net5.0\BaconsCipherDecoder.deps.json
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\bin\Debug\net5.0\BaconsCipherDecoder.runtimeconfig.json
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\bin\Debug\net5.0\BaconsCipherDecoder.runtimeconfig.dev.json
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\bin\Debug\net5.0\BaconsCipherDecoder.dll
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\bin\Debug\net5.0\ref\BaconsCipherDecoder.dll
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\bin\Debug\net5.0\BaconsCipherDecoder.pdb
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\obj\Debug\net5.0\BaconsCipherDecoder.csproj.AssemblyReference.cache
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\obj\Debug\net5.0\BaconsCipherDecoder.GeneratedMSBuildEditorConfig.editorconfig
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\obj\Debug\net5.0\BaconsCipherDecoder.AssemblyInfoInputs.cache
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\obj\Debug\net5.0\BaconsCipherDecoder.AssemblyInfo.cs
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\obj\Debug\net5.0\BaconsCipherDecoder.csproj.CoreCompileInputs.cache
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\obj\Debug\net5.0\BaconsCipherDecoder.dll
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\obj\Debug\net5.0\ref\BaconsCipherDecoder.dll
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\obj\Debug\net5.0\BaconsCipherDecoder.pdb
+H:\Personal\Programming\Csharp\Bacons Cipher Decoder\BaconsCipherDecoder\BaconsCipherDecoder\obj\Debug\net5.0\BaconsCipherDecoder.genruntimeconfig.cache

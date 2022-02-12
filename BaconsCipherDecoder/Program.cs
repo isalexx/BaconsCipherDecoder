@@ -12,9 +12,8 @@ namespace BaconsCipherDecoder
         
         static void Main(string[] args)
         {
-            bool cont = true;
             
-            while (cont)
+            while (true)
             {
                 Console.WriteLine("\nEnter the text you want to decode:");
                 
